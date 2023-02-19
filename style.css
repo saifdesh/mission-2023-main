@@ -1,0 +1,111 @@
+.sec-1 {
+    margin-top: 20px;
+}
+
+.profile {
+    display: flex;
+
+}
+
+.first {
+    border-left: 8px solid orangered;
+
+    /* padding: 5px; */
+}
+
+.stay {
+    margin-left: 15px;
+    font-size: 50px;
+}
+
+.mission {
+    width: 50%;
+    margin-top: 30px;
+    margin-left: 15px;
+}
+
+.explore {
+    text-decoration: none;
+    color: white;
+    background-color: orangered;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.mission23 {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 50px;
+}
+
+.missionvdiv {
+    display: flex;
+
+}
+
+.Mission {
+    background-color: blueviolet;
+    width: 33%;
+    padding: 2px;
+    margin-left: 5px;
+
+}
+
+.Vission {
+    background-color: cornflowerblue;
+    width: 33%;
+    padding: 2px;
+    margin-left: 5px;
+}
+
+.Goal {
+    background-color: darkslategrey;
+    width: 33%;
+    padding: 2px;
+    margin-left: 5px;
+}
+
+.sec-3 {
+    margin-top: 50px;
+}
+
+.coding {
+    display: flex;
+}
+
+.cwomen {
+    width: 50%;
+}
+
+.develop {
+    width: 50%;
+}
+
+.dev-dream {
+    font-size: 50px;
+    margin-top: 200px;
+}
+
+.sec-4 {
+    margin-top: 100px;
+}
+
+.gcommunity {
+    display: flex;
+}
+
+.gtex {
+    width: 50%;
+}
+
+.gimg {
+    width: 50%;
+}
+
+.kno-us {
+
+    font-size: 50px;
+    margin-top: 50px;
+
+}
