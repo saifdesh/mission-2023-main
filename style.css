@@ -109,3 +109,20 @@
     margin-top: 50px;
 
 }
+
+footer {
+    margin-top: 200px;
+    background-color: black;
+    /* color: white; */
+    text-align: center;
+}
+
+.mft {
+    color: orangered;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.ftex {
+    color: white;
+}
