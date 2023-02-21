@@ -21,7 +21,7 @@
 .mission {
     width: 50%;
     margin-top: 30px;
-    margin-left: 15px;
+    margin-left: 50px;
 }
 
 .explore {
@@ -49,6 +49,7 @@
     width: 33%;
     padding: 2px;
     margin-left: 5px;
+    border-radius: 10px;
 
 }
 
@@ -57,6 +58,7 @@
     width: 33%;
     padding: 2px;
     margin-left: 5px;
+    border-radius: 10px;
 }
 
 .Goal {
@@ -64,6 +66,7 @@
     width: 33%;
     padding: 2px;
     margin-left: 5px;
+    border-radius: 10px;
 }
 
 .sec-3 {
